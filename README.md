@@ -15,8 +15,8 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ### Screenshot
 
-- [Desktop Preview](./design/desktop-design.jpg)
-- [Mobil Preview](./design/mobil-design.jpg)
+- [Desktop Preview](https://github.com/MedusaCollins/nftcardcomponent/blob/main/resource/design/desktop-preview.jpg)
+- [Mobil Preview](https://github.com/MedusaCollins/nftcardcomponent/blob/main/resource/design/mobile-design.jpg)
 ### Links
 
 - Solution URL: [Solution Site](https://github.com/MedusaCollins/nftcardcomponent)
